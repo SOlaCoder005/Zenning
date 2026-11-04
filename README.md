@@ -1,7 +1,6 @@
 # Zenning
 
-<!--HEADER IMAGE --> 
-![](imagepathway) 
+![](game/images/crashsound.png) 
 
 <!--- MARKUP NOTES 
 
