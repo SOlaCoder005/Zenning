@@ -218,7 +218,7 @@ style choice_button_text is button_text
 
 style choice_vbox:
     xalign 0.5
-    ypos 650
+    ypos 405
     yanchor 0.5
 
     spacing gui.choice_spacing
@@ -247,12 +247,12 @@ screen quick_menu():
             style "quick_menu"
 
             textbutton _("Back") action Rollback()
-            #textbutton _("History") action ShowMenu('history')
-            #textbutton _("Skip") action Skip() alternate Skip(fast=True, confirm=True)
+            textbutton _("History") action ShowMenu('history')
+            textbutton _("Skip") action Skip() alternate Skip(fast=True, confirm=True)
             textbutton _("Auto") action Preference("auto-forward", "toggle")
             textbutton _("Save") action ShowMenu('save')
-            #textbutton _("Q.Save") action QuickSave()
-            #textbutton _("Q.Load") action QuickLoad()
+            textbutton _("Q.Save") action QuickSave()
+            textbutton _("Q.Load") action QuickLoad()
             textbutton _("Prefs") action ShowMenu('preferences')
 
 
@@ -269,7 +269,7 @@ style quick_button_text is button_text
 
 style quick_menu:
     xalign 0.5
-    yalign 0.98
+    yalign 1.0
 
 style quick_button:
     properties gui.button_properties("quick_button")
