@@ -10,7 +10,7 @@ TO HYPER LINK USE THIS FORMAT: [TEXT](HYPERLINK URL)
 # OR ## DICTATTES THE SIZE OF THE HEADING FONT  
  
 
-<!--- EXAMPLE TABLE --> 
+EXAMPLE TABLE BELOW:
 
 | TABLE TITLE 1 | Description| 
 
@@ -26,11 +26,10 @@ TO HYPER LINK USE THIS FORMAT: [TEXT](HYPERLINK URL)
 
  
 
-<!--- EXAMPLE link image --> 
+EXAMPLE link image below:
 
 ![](docs/readme-content/gameinstructions.png) 
 
- 
 
 --> 
 
