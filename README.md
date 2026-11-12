@@ -31,11 +31,6 @@ EXAMPLE link image below:
 
 
 --> 
-
-## :video_game: Play the game: [*Zenning*](https://solacoder005.itch.io/zenning)
-*Please bote: The game is avaible to play via itch.io*
-
-
 # List of Contents 
 
 1. [Overview](#1-Overview) 
@@ -50,9 +45,11 @@ EXAMPLE link image below:
 
 6. [Credits](#6-Credits) 
 
-7. [Copyright Notice](#7-Copyright-Notice) 
- 
+7. [Copyright Notice](#7-Copyright-Notice)
 
+
+## :video_game: Play the game: [*Zenning*](https://solacoder005.itch.io/zenning)
+*Please note: The game is avaible to play via itch.io*
 
 
 ## 1. Overview
@@ -60,6 +57,9 @@ EXAMPLE link image below:
 *Zenning* is a short Visual Novel game where the player plays as the protagonist, Anu - a young mum who's returned from work and is more stressed than ever! To calm down she must listen to the guided meditation leading her on a path to get into a 'Zen' state. Can you as the player get Anu to reach a 'Zen' state? Why not play and find out!?
 
 This current version of *Zenning* is in the protyping phase with hopes to be developed further in 2027.  *Zenning* operates in the similar way as traditional Visual Novels.
+
+
+![](game/images/zenningitchlandingpage.png) 
 
 
 ## 2. Features
@@ -148,12 +148,9 @@ Using greyscale monochrome as the pimary colour theme intended to provide a bit 
 
 ## 5. Deployment, Access, and Extensions
 
-### **5.1 Deployment** 
+### **:computer: 5.1 Deployment** 
 
 *Zenning* has been deployed locally and online via the use of Ren'Py, GitHub (web application), Git Bash, Itch.io and an IDE such as VS Code. 
-
-An overview of how the programme was accessed and deployed are outlined in the sections below.
-
 
 ### **:unlock: 5.2 Access: Local Clone via SSH Key**
 
