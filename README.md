@@ -33,6 +33,7 @@ EXAMPLE link image below:
 --> 
 
 ## :video_game: Play the game: [*Zenning*](https://solacoder005.itch.io/zenning)
+    *Please bote: The game is avaible to play via itch.io*
 
 
 # List of Contents 
