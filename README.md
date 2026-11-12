@@ -48,8 +48,9 @@ EXAMPLE link image below:
 7. [Copyright Notice](#7-Copyright-Notice)
 
 
-## :video_game: Play the game: [*Zenning*](https://solacoder005.itch.io/zenning)
 *Please note: The game is avaible to play via itch.io*
+## :video_game: Play the game: [*Zenning*](https://solacoder005.itch.io/zenning)
+
 
 
 ## 1. Overview
