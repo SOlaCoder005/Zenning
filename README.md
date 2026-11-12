@@ -195,7 +195,7 @@ Thanks for all the contributors who's assets have been incorporated into this pr
 
 ## :warning: 7. Copyright Notice
 
-© 2026. Sam Oladiran. Zenning and its original game materials are protected by applicable copyright and intellectual property laws, where applicable. All rights reserved in the original materials owned by the developer. No permission to reproduce, distribute, or commercially use these materials is granted by participation in this playtest.  
+© 2026. SOlaCoder005. Zenning and its original game materials are protected by applicable copyright and intellectual property laws, where applicable. All rights reserved in the original materials owned by the developer. No permission to reproduce, distribute, or commercially use these materials is granted by participation in this playtest.  
 
  
 
