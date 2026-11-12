@@ -32,9 +32,10 @@ EXAMPLE link image below:
 
 --> 
 
-# List of Contents 
+## :video_game: [Game: *Zennning*](https://solacoder005.itch.io/zenning)
 
- 
+
+# List of Contents 
 
 1. [Overview](#1-Overview) 
 
@@ -51,7 +52,7 @@ EXAMPLE link image below:
 7. [Copyright Notice](#7-Copyright-Notice) 
  
 
- 
+
 
 ## 1. Overview
 
@@ -66,17 +67,17 @@ This section provides an overview of the features on the game, and the way in wh
 
 -	**2.1 Game Controls** 
 
-**Mouse: Left click**
-    The game operates in the same way as traditional Visual Novel games, where left clicking progresses you through the game.
+    **Mouse: Left click**
+        The game operates in the same way as traditional Visual Novel games, where left clicking progresses you through the game.
 
-**Back button**
-    As *Zenning* is a short game, it is unlikely players will need to use the 'back biutton' at the bottom of the game screen. However, clicking this button allows you to go back a precvious step in the game if needed.
+    **Back button**
+        As *Zenning* is a short game, it is unlikely players will need to use the 'back biutton' at the bottom of the game screen. However, clicking this button allows you to go back a precvious step in the game if needed.
 
 
 -	**2.2 Level Progression** 
 In this stage of development - players wil play through three short levels. In each level players are prompted to choose one out of three options in hope to promote a 'Zen state'. Each option will have the following consequences: 
 
-| TABLE TITLE 1 | Description| 
+| Choice type | Consequence | 
 |-----|-----| 
 | Good choice | Progress to the next level, eventually attain the 'Good Ending'. | 
 | Neutral choice | Repeat the same level. | 
@@ -87,7 +88,7 @@ Needless to say, the goal of the game is to achieve the 'Good Ending'.
 
 ## 3. Content
 
-### **3.1 Assests: Artwork**
+### **3.1 Assets: Artwork**
 
 *Zenning*, including it's characters, artwork, visual assets, design elements, and prototype materials, has been created by the developer (myself) as has been provided for playtesting purposes only.
 
@@ -111,7 +112,7 @@ Unless I have explicitly given written permission, please do not:
 ### **3.3 Assets: Fonts** 
 
 The following fonts were used for the programmes hosting page: 
-- **Freckle Face** - by Google Fonts
+- [**Freckle Face** - by Google Fonts](https://fonts.google.com/specimen/Freckle+Face)
 
 Rationale: These engine's default font did not compliment the overall aesthetic design of *Zenning*. As such, the font above was used to compliment the aesthetic tone of the game, maintaining the intended 'vintage cartoon' tone of the game itself. 
 
@@ -173,18 +174,18 @@ An overview of how the programme was accessed and deployed are outlined in the s
 
 | :key: Implementing SSH Key |
 |-------------|
-|3.1 Open GitHub and navigate to the repo you want to clone.|
-|3.2 Click the **’Code’** button in the top-right corner of the repo window.|
-|3.3 Click the SSH Key tab.|
-|3.4 Copy the SSH key via right click and copy or clicking the clipboard icon.|
-|3.5 On the desktop, open VSCode.|
-|3.6 On the taskbar at the top of tab, click the **File** tab.|
-|3.7 Select the folder you want to clone the repo to.|
-|3.8 In the terminal box, type **‘git clone’**.|
-|3.9 Then copy the SSH key after the git clone command. Then press enter.|
-|3.10 The terminal should present the pathway to the cloned repository. For instance, the programme will display the following in the VSCode’s terminal:| 
+|1. Open GitHub and navigate to the repo you want to clone.|
+|2. Click the **’Code’** button in the top-right corner of the repo window.|
+|3. Click the SSH Key tab.|
+|4. Copy the SSH key via right click and copy or clicking the clipboard icon.|
+|5. On the desktop, open VSCode.|
+|6. On the taskbar at the top of tab, click the **File** tab.|
+|7. Select the folder you want to clone the repo to.|
+|8. In the terminal box, type **‘git clone’**.|
+|9. Then copy the SSH key after the git clone command. Then press enter.|
+|10. The terminal should present the pathway to the cloned repository. For instance, the programme will display the following in the VSCode’s terminal:| 
 |- **…C:\Users\missm\Documents\GIT\game>**|
-|3.11 Once cloned, you will be able to edit the repo locally and commit, pull and push changes to the online GitHub repo (remote repository) using terminal commands (e.g. 'git push', 'git add .' and 'git pull').| 
+|11. Once cloned, you will be able to edit the repo locally and commit, pull and push changes to the online GitHub repo (remote repository) using terminal commands (e.g. 'git push', 'git add .' and 'git pull').| 
 
 
 ## 6. Credits
