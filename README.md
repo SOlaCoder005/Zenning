@@ -48,11 +48,6 @@ EXAMPLE link image below:
 7. [Copyright Notice](#7-Copyright-Notice)
 
 
-
-## :video_game: Play the game: [*Zenning*](https://solacoder005.itch.io/zenning)
-*Please note: The game is avaible to play via itch.io*
-
-
 ## 1. Overview
 
 *Zenning* is a short Visual Novel game where the player plays as the protagonist, Anu - a young mum who's returned from work and is more stressed than ever! To calm down she must listen to the guided meditation leading her on a path to get into a 'Zen' state. Can you as the player get Anu to reach a 'Zen' state? Why not play and find out!?
