@@ -32,7 +32,7 @@ EXAMPLE link image below:
 
 --> 
 
-## :video_game: Play the game: [*Zennning*](https://solacoder005.itch.io/zenning)
+## :video_game: Play the game: [*Zenning*](https://solacoder005.itch.io/zenning)
 
 
 # List of Contents 
@@ -75,13 +75,15 @@ This section provides an overview of the features on the game, and the way in wh
 
 
 -	**2.2 Level Progression** 
-In this stage of development - players wil play through three short levels. In each level players are prompted to choose one out of three options in hope to promote a 'Zen state'. Each option will have the following consequences: 
+    
+    In this stage of development - players wil play through three short levels. In each level players are prompted to choose one out of three options in hope to promote a 'Zen state'. Each option will have the following consequences:
 
-| Choice Type | Consequence | 
-|-----|-----| 
-| Good choice | Progress to the next level, eventually attain the 'Good Ending'. | 
-| Neutral choice | Repeat the same level. | 
-| Bad choice | Sends player to the start of the game regardless of level. | 
+
+    | Choice Type | Consequence | 
+    |-----|-----| 
+    | Good choice | Progress to the next level, eventually attain the 'Good Ending'. | 
+    | Neutral choice | Repeat the same level. | 
+    | Bad choice | Sends player to the start of the game regardless of level. | 
 
 Needless to say, the goal of the game is to achieve the 'Good Ending'.
 
