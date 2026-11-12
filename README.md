@@ -93,7 +93,7 @@ Needless to say, the goal of the game is to achieve the 'Good Ending'.
 
 ### **3.1 Assets: Artwork**
 
-*Zenning*, including it's characters, artwork, visual assets, design elements, and prototype materials, has been created by the developer (myself) as has been provided for playtesting purposes only.
+*Zenning*, including it's [characters, artwork, visual assets, design elements,](game/images) and prototype materials, has been created by the developer (myself) as has been provided for playtesting purposes only.
 
 Unless I have explicitly given written permission, please do not:
 
