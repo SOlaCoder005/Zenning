@@ -49,6 +49,7 @@ EXAMPLE link image below:
 
 
 ## :video_game: Play the game: [*Zenning*](https://solacoder005.itch.io/zenning)
+*Please note: The game is avaible to play via itch.io*
 
 
 ## 1. Overview
