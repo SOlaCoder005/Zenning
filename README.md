@@ -32,7 +32,7 @@ EXAMPLE link image below:
 
 --> 
 
-## :video_game: [Game: *Zennning*](https://solacoder005.itch.io/zenning)
+## :video_game: Play the game: [*Zennning*](https://solacoder005.itch.io/zenning)
 
 
 # List of Contents 
@@ -67,17 +67,17 @@ This section provides an overview of the features on the game, and the way in wh
 
 -	**2.1 Game Controls** 
 
-    **Mouse: Left click**
-        The game operates in the same way as traditional Visual Novel games, where left clicking progresses you through the game.
+    **Mouse: Left click** |
+    *The game operates in the same way as traditional Visual Novel games, where left clicking progresses you through the game.*
 
-    **Back button**
-        As *Zenning* is a short game, it is unlikely players will need to use the 'back biutton' at the bottom of the game screen. However, clicking this button allows you to go back a precvious step in the game if needed.
+    **Back button** |
+    *As *Zenning* is a short game, it is unlikely players will need to use the 'back button' at the bottom of the game screen. However, clicking this button allows you to go back a precvious step in the game if needed.*
 
 
 -	**2.2 Level Progression** 
 In this stage of development - players wil play through three short levels. In each level players are prompted to choose one out of three options in hope to promote a 'Zen state'. Each option will have the following consequences: 
 
-| Choice type | Consequence | 
+| Choice Type | Consequence | 
 |-----|-----| 
 | Good choice | Progress to the next level, eventually attain the 'Good Ending'. | 
 | Neutral choice | Repeat the same level. | 
