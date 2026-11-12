@@ -77,13 +77,9 @@ This section provides an overview of the features on the game, and the way in wh
 In this stage of development - players wil play through three short levels. In each level players are prompted to choose one out of three options in hope to promote a 'Zen state'. Each option will have the following consequences: 
 
 | TABLE TITLE 1 | Description| 
-
 |-----|-----| 
-
 | Good choice | Progress to the next level, eventually attain the 'Good Ending'. | 
-
 | Neutral choice | Repeat the same level. | 
-
 | Bad choice | Sends player to the start of the game regardless of level. | 
 
 Needless to say, the goal of the game is to achieve the 'Good Ending'.
@@ -201,7 +197,7 @@ Thanks for all the contributors who's assets have been incorporated into this pr
 - ['Jumping on a Bed' - by freesound_community via Pixabay](https://pixabay.com/users/freesound_community-46691455/)
 
 
-## 7. Copyright Notice
+## :warning: 7. Copyright Notice
 
 © 2026. Sam Oladiran. Zenning and its original game materials are protected by applicable copyright and intellectual property laws, where applicable. All rights reserved in the original materials owned by the developer. No permission to reproduce, distribute, or commercially use these materials is granted by participation in this playtest.  
 
